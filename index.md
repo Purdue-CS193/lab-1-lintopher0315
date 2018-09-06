@@ -1,5 +1,7 @@
 # lintopher0315's first CS193 Lab
+
 -Teaches programming tools
+
 -Labs every other week
 
 
